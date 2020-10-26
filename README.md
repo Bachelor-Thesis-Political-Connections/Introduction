@@ -10,7 +10,7 @@ In short, this theme will allow you to:
 - Understand the main theories about political connections and political interference with business and markets.
 - Understand the difference between empirical and theoretical questions, and identify the main methods used in empirical research.
 - Formulate your own ideas about political connections
-- Get an impression of the variation of mechanisms around the work to regulate politicians' behavior. 
+- Get an impression of the variation of mechanisms around the world to regulate politicians' behavior. 
 
 Secondarily, the goal is to introduce students to the main aspects of doing data analysis and statistics. To this end, we will do the following:
 

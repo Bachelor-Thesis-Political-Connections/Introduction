@@ -75,6 +75,6 @@ It is probably most important that you:
 
 Make sure to do everything on time! That way, you have ample opportunity to incorporate my feedback to improve your grade in the last weeks! :) 
 
-# Questions
+## Questions
 
 Send me an email [here](mailto:a.h.machielsen@uu.nl) or [here](machielsen@rsm.nl)! 

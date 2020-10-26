@@ -1,4 +1,4 @@
-# Introduction
+## Introduction
 
 Welcome to the Bachelor Thesis theme "Political Connections" for the EUR BA BSc track. 
 Political connections and behavior of politicians with respect to firms has been a topic of interest in the general management, finance, and economics literature for a long time. 
@@ -21,7 +21,7 @@ Secondarily, the goal is to introduce students to the main aspects of doing data
 
 **(if you want me to help you):** I am proficient (to some extent) in Python, R and Stata, so you can use any of those languages to work with!
 
-# This page 
+## This page 
 
 This page contains all relevant course materials with respect to:
 
@@ -30,7 +30,7 @@ This page contains all relevant course materials with respect to:
 - Articles
 - Programming
 
-# A short planning
+## A short planning
 
 We will adhere to the course manual, but apply minor exceptions: given that our topic is data-intensive, we spend **more** time on data collection and treatment. 
 A rough indication of what is expected from you around what meeting is given below:
@@ -54,7 +54,7 @@ As stressed in the table, you have until week 4 to ask for my help with data cle
 
 Afterwards, small questions about data issues during feedback sessions are (of course!) allowed. 
 
-# How to ask for help with coding?
+## How to ask for help with coding?
 
 Read up on what [reproducible examples](https://www.tidyverse.org/help/) are! In short, reproducible examples allow people you're asking for help to get a quick grasp of the problem, without overflowing them with unnecessary details.
 It is probably most important that you:
@@ -63,15 +63,15 @@ It is probably most important that you:
 2. Describe the essence of the issue, which requires abstracting from the specific data set you are working with. 
 3. Send all the necessary information (errors, data, etc.) I need to reproduce the problem. 
 
-# Examples of clear questions
+## Examples of clear questions
 
 - How do I merge two datasets in R based on the unique columns of 1 dataset?
-- Python's pivot method gives a strange error I don't understand on my dataset and can't find the solution of on Google [and include the error term]
+- Python's pivot method gives a strange error I don't understand on my dataset and can't find the solution of on Google (and include the error message)
 - Do you know how to change the number of stars to indicate significance with Stata?
 - Can you help me filter out a particular text from this column in R?
 - Can you help me extract data from tables on a particular website?
 
-# Finally..
+## Finally..
 
 Make sure to do everything on time! That way, you have ample opportunity to incorporate my feedback to improve your grade in the last weeks! :) 
 
